@@ -42,14 +42,6 @@
 
 ---
 
-### 🚀 Projets en vedette
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ASSIHOU-ROGER&repo=Port-folio-keren&theme=tokyonight)](https://github.com/ASSIHOU-ROGER/Port-folio-keren)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ASSIHOU-ROGER&repo=30jours-de-code-&theme=tokyonight)](https://github.com/ASSIHOU-ROGER/30jours-de-code-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ASSIHOU-ROGER&repo=Site-Officiel-du-Clan-W-RLORD&theme=tokyonight)](https://github.com/ASSIHOU-ROGER/Site-Officiel-du-Clan-W-RLORD)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ASSIHOU-ROGER&repo=Nouveau-PFL&theme=tokyonight)](https://github.com/ASSIHOU-ROGER/Nouveau-PFL)
-
----
 
 ### 🌐 Me retrouver
 
