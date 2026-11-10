@@ -1,70 +1,79 @@
-<div align="center">
-  
-  ### Salut, moi c'est **ASSIHOU Roger** 👋
+<a href="https://portfolio2-0-flame-ten.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" width="100%" alt="Roger Assihou, développeur full stack orienté sécurité, Cotonou, Bénin">
+  </picture>
+</a>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Passionate+about+Cybersecurity;Software+Developer;Cr%C3%A9ateur+de+solutions+digitales;From+Benin+%F0%9F%87%A7%F0%9F%87%AF)](https://git.io/typing-svg)
+<br>
 
-</div>
+Je conçois et je code des sites et des produits web, de la première maquette à la mise en ligne. Étudiant en sécurité informatique à l'IFRI (Université d'Abomey-Calavi), je construis des interfaces vivantes sans oublier ce qu'il y a dessous : des données protégées et un code qui tient.
 
----
+<br>
 
-### 🧑‍💻 À propos de moi
+### Projet phare
 
-- 🔭 Passionné par la **Cybersécurité** et le **Développement Logiciel**
-- 🌱 Actuellement en train de monter en compétences sur la cybersécurité & le full-stack
-- 👯 Ouvert aux collaborations sur des projets web, sécurité et open-source
-- 💬 Pose-moi des questions sur le développement web, TypeScript ou la cybersécurité
-- ⚡ Fun fact : Je crée des solutions digitales impactantes depuis le Bénin 🇧🇯
-- 🌍 Portfolio : [port-folio-nine-jet.vercel.app](https://port-folio-nine-jet.vercel.app/)
+<a href="https://pmetx.vercel.app/">
+  <img src="assets/pmetx.svg" width="100%" alt="PMETX : atelier d'interfaces assisté par IA. Le code reçu passe quatre contrôles : analyse statique, bac à sable (iframe isolée, CSP stricte), proxy anti-SSRF limité aux hôtes autorisés, protection contre les redirections ouvertes.">
+</a>
 
----
+<br><br>
 
-### 🛠️ Technologies & Outils
+### Sélection
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,linux,figma" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://eventpro-nu.vercel.app/"><img src="assets/projets/eventpro.webp" width="100%" alt="Page d'accueil d'EventPro"></a>
+      <br><b>EventPro</b> · billetterie bilingue avec paiement Mobile Money
+      <br><sub>Next.js · Supabase · 142 utilisateurs inscrits</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://saas-facturation-jade.vercel.app/"><img src="assets/projets/facturepro.webp" width="100%" alt="Page d'accueil de GSCM"></a>
+      <br><b>GSCM</b> · factures, clients et suivi des paiements
+      <br><sub>Next.js · Supabase · en cours</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://cv-et-lettre-pro.vercel.app/"><img src="assets/projets/cvlettre.webp" width="100%" alt="Page d'accueil de FactorCV"></a>
+      <br><b>FactorCV</b> · CV et lettres de motivation assistés par IA
+      <br><sub>Next.js · Supabase · chef de projet</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.rogershop.online/"><img src="assets/projets/curalis.webp" width="100%" alt="Page d'accueil de Curalis"></a>
+      <br><b>Curalis</b> · boutique en ligne de produits naturels
+      <br><sub>HTML · CSS · JavaScript · Supabase</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dent-puce.vercel.app/"><img src="assets/projets/transitor.webp" width="100%" alt="Page d'accueil de Hismile V34"></a>
+      <br><b>Hismile V34</b> · page produit e-commerce
+      <br><sub>HTML · CSS · JavaScript · Supabase</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://rereohr.vercel.app/"><img src="assets/projets/opaque.webp" width="100%" alt="Page d'accueil du concept OPAQUE"></a>
+      <br><b>OPAQUE®</b> · portfolio de studio en pile 3D
+      <br><sub>three.js · WebGL · concept</sub>
+    </td>
+  </tr>
+</table>
 
----
+Les autres projets, avec leur histoire, sont sur le [portfolio](https://portfolio2-0-flame-ten.vercel.app/projets).
 
-### 📊 GitHub Stats
+<br>
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ASSIHOU-ROGER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASSIHOU-ROGER&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+### En ce moment
 
-<br/>
+- Deuxième année de licence en sécurité informatique à l'IFRI.
+- PMETX : de nouvelles couches de contrôle pour le code généré.
+- GSCM : la facturation et le suivi des paiements.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASSIHOU-ROGER&theme=tokyonight&hide_border=true" />
-</div>
+### Outils
 
----
+React · Next.js · TypeScript · Tailwind CSS · Supabase · Python · Linux · Figma
 
+### Me joindre
 
-### 🌐 Me retrouver
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/roger-assihou-090836332">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://port-folio-nine-jet.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://github.com/ASSIHOU-ROGER">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  
-  ![Profile views](https://komarev.com/ghpvc/?username=ASSIHOU-ROGER&color=blueviolet&style=flat-square)
-  
-  <br/><br/>
-  
-  ⭐️ From [ASSIHOU-ROGER](https://github.com/ASSIHOU-ROGER)
-
-</div>
+[assihouroger@gmail.com](mailto:assihouroger@gmail.com) · [LinkedIn](https://www.linkedin.com/in/roger-assihou-090836332) · [Portfolio](https://portfolio2-0-flame-ten.vercel.app/) · [CV](https://portfolio2-0-flame-ten.vercel.app/cv/roger-assihou-cv.pdf)
