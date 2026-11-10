@@ -41,9 +41,9 @@ Je conçois et je code des sites et des produits web, de la première maquette �
       <br><sub>Next.js · Supabase · chef de projet</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.rogershop.online/"><img src="assets/projets/curalis.webp" width="100%" alt="Page d'accueil de Curalis"></a>
-      <br><b>Curalis</b> · boutique en ligne de produits naturels
-      <br><sub>HTML · CSS · JavaScript · Supabase</sub>
+      <a href="https://muave-lake.vercel.app/"><img src="assets/projets/muave.webp" width="100%" alt="Page d'accueil du concept MUAVE"></a>
+      <br><b>MUAVE</b> · atelier de crochet à Cotonou, un récit lent
+      <br><sub>HTML · CSS · JavaScript · concept</sub>
     </td>
   </tr>
   <tr>
